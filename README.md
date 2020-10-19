@@ -21,5 +21,5 @@ My name is Matheus, I'm a Web Development student🤙
 
 ## Talk to me
 
-- [instagram](https://www.instagram.com/thematheusreal/?hl=pt-br)
+- [instagram](https://www.instagram.com/thematheusdev/?hl=pt-br)
 
