@@ -13,9 +13,9 @@ My name is Matheus, I'm a Web Development student🤙
 
 
 - JavaScript
-- Node.js
-- HTML5
-- CSS3
+- Html5
+- Css3
+- Bootstrap
 
 ##
 
